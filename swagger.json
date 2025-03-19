@@ -1,0 +1,8 @@
+{
+  "urls": [
+    {
+      "url": "https://attacker.com/scripty.yaml",
+      "name": "Malicious API"
+    }
+  ]
+}
