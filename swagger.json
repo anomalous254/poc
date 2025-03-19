@@ -1,7 +1,7 @@
 {
   "urls": [
     {
-      "url": "https://attacker.com/scripty.yaml",
+      "url": "https://anomalous254.github.io/poc/swagger.yaml",
       "name": "Malicious API"
     }
   ]
